@@ -1,0 +1,2 @@
+rtcServer:
+ worker_num: 2
